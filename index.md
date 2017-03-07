@@ -6,10 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Repos/proyectos de la asignatura
 
-Un enlace a repo [Git](https://github.com/panteleevnikita/hmis2017).
-Enlace a otra repo [Svn](https://github.com/panteleevnikita/hmis2017).
-Y otra repo mas [Git](https://github.com/panteleevnikita/hmis2017).
-Y enlace a otra cosa mas [Git](https://github.com/panteleevnikita/hmis2017).
+- Un enlace a repo [Git](https://github.com/panteleevnikita/hmis2017).
+- Enlace a otra repo [Svn](https://github.com/panteleevnikita/hmis2017).
+- Y otra repo mas [Git](https://github.com/panteleevnikita/hmis2017).
+- Y enlace a otra cosa mas [Git](https://github.com/panteleevnikita/hmis2017).
 
 ```markdown
 Syntax highlighted code block
