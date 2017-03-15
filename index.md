@@ -1,14 +1,20 @@
-## Welcome to GitHub Pages
+## Bienvenido a la pagina de JoseAndNikita
 
-You can use the [editor on GitHub](https://github.com/panteleevnikita/hmis2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Aqui se aloja la pagina del equipo para repos compartidas entre los miembros.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Contacte con cualquiera de los miembros si lo ve necesario y sientaese elibre en participar en losp royectos del equipo: añadir issues, comentar sobre los proyectos y contribuir a estos.
 
 ### Enlaces a los perfiles de github de los miembros del equipo:
 
 - Un enlace a repo [Mateo](https://github.com/jmmateo14).
 - Enlace a otra repo [Nikita](https://github.com/panteleevnikita).
-- Repo del equipo en [JoseAndNikita](https://github.com/JoseAndNikita)
+- Repo del equipo [JoseAndNikita](https://github.com/JoseAndNikita)
+
+### Enlaces a los repositiorios de proyectos del equipo:
+
+- Repo de esta pagina [JoseAndNikita](https://github.com/JoseAndNikita/hmis2017)
+
+### Ejemplos de uso de la sintaxis de markdown
 
 ```markdown
 Syntax highlighted code block
