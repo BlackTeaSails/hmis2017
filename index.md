@@ -4,12 +4,11 @@ You can use the [editor on GitHub](https://github.com/panteleevnikita/hmis2017/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Repos/proyectos de la asignatura
+### Enlaces a los perfiles de github de los miembros del equipo:
 
-- Un enlace a repo [Git](https://github.com/panteleevnikita/hmis2017).
-- Enlace a otra repo [Svn](https://github.com/panteleevnikita/hmis2017).
-- Y otra repo mas [Otro ejemplo](https://github.com/panteleevnikita/hmis2017).
-- Y enlace a otra cosa mas [Mas ejemplos](https://github.com/panteleevnikita/hmis2017).
+- Un enlace a repo [Mateo](https://github.com/jmmateo14).
+- Enlace a otra repo [Nikita](https://github.com/panteleevnikita).
+- Repo del equipo en [JoseAndNikita](https://github.com/JoseAndNikita)
 
 ```markdown
 Syntax highlighted code block
