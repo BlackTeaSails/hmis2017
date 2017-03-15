@@ -1,3 +1,2 @@
-# hmis2017
-repositorio personal para la asignatura de herramientas y metodos de software de 2016-2017
-contruido con Jekyll y alojado en [Github pages](https://joseandnikita.github.io/hmis2017/)
+# JoseAndNikita
+Equipo formado por Mateo y Nikita para la asignatura de Herramientas de Metodos de Ingenieria del Software [Github pages](https://joseandnikita.github.io/hmis2017/)
