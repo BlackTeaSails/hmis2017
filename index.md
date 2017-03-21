@@ -1,4 +1,4 @@
-## Bienvenido a la pagina de JoseAndNikita
+﻿## Bienvenido a la pagina de JoseAndNikita
 
 Aqui se aloja la pagina del equipo para repos compartidas entre los miembros.
 
@@ -9,6 +9,9 @@ Contacte con cualquiera de los miembros si lo ve necesario y sientaese elibre en
 - Un enlace a repo [Mateo](https://github.com/jmmateo14).
 - Enlace a otra repo [Nikita](https://github.com/panteleevnikita).
 - Repo del equipo [JoseAndNikita](https://github.com/JoseAndNikita)
+
+### Enlaces a los repositiorios de GitLab de la asignatura:
+- http://gitlabdoc.ual.es/root/hmis2017.git
 
 ### Enlaces a los repositiorios de proyectos del equipo:
 
