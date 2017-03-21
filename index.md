@@ -9,15 +9,20 @@ Contacte con cualquiera de los miembros si lo ve necesario y sientaese elibre en
 - Un enlace a repo [Mateo](https://github.com/jmmateo14).
 - Enlace a otra repo [Nikita](https://github.com/panteleevnikita).
 - Repo del equipo [JoseAndNikita](https://github.com/JoseAndNikita)
+- [Repo asignatura hmis](http://gitlabdoc.ual.es/root/hmis2017.git)
 
-### Enlace a los repositiorios de GitLab de la asignatura:
-- http://gitlabdoc.ual.es/root/hmis2017.git
+### Enlace a GitLab
+- [GitLab]( https://about.gitlab.com/)
 
-### Enlace a de GitLab
--https://about.gitlab.com/
+### Enlaces a los SCV distribuidos
+
+- [Bazaar](http://bazaar.canonical.com/en/)
+- [Mercurial](https://www.mercurial-scm.org/)
+- [Git](https://git-scm.com/)
+- [Darcs]([http://darcs.net/)
 
 ### Enlace a informacion de como trabajar con repositorios remotos:
-- https://help.github.com/articles/fork-a-repo/
+- [Sync a fork](https://help.github.com/articles/fork-a-repo/)
 
 ### Enlaces a los repositiorios de proyectos del equipo:
 
