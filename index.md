@@ -23,6 +23,10 @@ Contacte con cualquiera de los miembros si lo ve necesario y sientaese elibre en
 
 - Repo de esta pagina [JoseAndNikita](https://github.com/JoseAndNikita/hmis2017)
 
+### Enclaces de interes. 
+
+- [Pro Git Book](httsp://git-scm.com/book/es/)
+
 ### Ejemplos de uso de la sintaxis de markdown
 
 ```markdown
