@@ -23,6 +23,7 @@ Contacte con cualquiera de los miembros si lo ve necesario y sientaese elibre en
 
 ### Enlace a informacion de como trabajar con repositorios remotos:
 - [Sync a fork](https://help.github.com/articles/fork-a-repo/)
+- [Work with pull requests](https://help.github.com/articles/about-pull-requests/)
 
 ### Enlaces a los repositiorios de proyectos del equipo:
 
