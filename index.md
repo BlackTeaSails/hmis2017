@@ -10,11 +10,14 @@ Contacte con cualquiera de los miembros si lo ve necesario y sientaese elibre en
 - Enlace a otra repo [Nikita](https://github.com/panteleevnikita).
 - Repo del equipo [JoseAndNikita](https://github.com/JoseAndNikita)
 
-### Enlaces a los repositiorios de GitLab de la asignatura:
+### Enlace a los repositiorios de GitLab de la asignatura:
 - http://gitlabdoc.ual.es/root/hmis2017.git
 
-### Enlaces a de GitLab
+### Enlace a de GitLab
 -https://about.gitlab.com/
+
+### Enlace a informacion de como trabajar con repositorios remotos:
+- https://help.github.com/articles/fork-a-repo/
 
 ### Enlaces a los repositiorios de proyectos del equipo:
 
