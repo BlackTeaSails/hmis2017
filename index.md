@@ -10,7 +10,7 @@ Contacte con cualquiera de los miembros si lo ve necesario y sientaese elibre en
 - Enlace a otra repo [Nikita](https://github.com/panteleevnikita).
 - Repo del equipo [JoseAndNikita](https://github.com/JoseAndNikita)
 - [Repo asignatura hmis](http://gitlabdoc.ual.es/root/hmis2017.git)
-- Enlace a repo de proyecto HMIS2017 (https://github.com/panteleevnikita/borderless_lotus_press)
+- Enlace a repo de proyecto HMIS2017 [borderless_lotus_press](https://github.com/panteleevnikita/borderless_lotus_press)
 
 ### Enlace a GitLab
 - [GitLab]( https://about.gitlab.com/)
